@@ -1,5 +1,5 @@
 # Landing Page - Space Cream
-Stage 03 - Desafio 07: Avançando no HTML e CSS - Explorer RocketSeat
+Stage 03 - Desafio 07 e 08: Avançando no HTML e CSS - Explorer RocketSeat
 
 ### Mobile
 ![Imgur](https://i.imgur.com/S06R3lU.jpg)
